@@ -1,5 +1,7 @@
 # Micro-Music-YouTube-Player
 
+![alt text](micro-music-youtube-player.png "Micro Music YouTube Player")
+
 ## To use:
 
 ```bash
